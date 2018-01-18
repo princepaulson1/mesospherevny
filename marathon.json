@@ -2,7 +2,7 @@
   "id": "/nginx-mesosphere",
   "cpus": 1,
   "mem": 128,
-  "instances": 3,
+  "instances": 2,
   "container": {
     "docker": {
       "image": "pp023549/mesospherevny:latest",
